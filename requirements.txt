@@ -13,7 +13,6 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-feather-format==0.4.1
 Fiona==1.8.17
 geopandas==0.8.1
 importlib-metadata==2.0.0
